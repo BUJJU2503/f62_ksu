@@ -3,7 +3,7 @@ name: Kernel Build (Fifteen Branch)
 on:
   push:
     branches:
-      - 15
+      - 16
 
 permissions:
   contents: write   # ✅ Needed to create releases with GITHUB_TOKEN
